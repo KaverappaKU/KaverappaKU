@@ -2,9 +2,12 @@
 
 Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Python and Shell programming languages used to develop software. Proud team player focused on achieving project objectives with speed and accuracy.
 
+![matrix](giphy.gif)
+
 ## Social Media
 
 LinkedIn https://www.linkedin.com/in/kaverappaku/
+
 <!--
 **KaverappaKU/KaverappaKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
