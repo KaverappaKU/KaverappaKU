@@ -1,6 +1,17 @@
-### Kaverappa K U
+## Kaverappa K U
 
 Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Python and Shell programming languages used to develop software. Proud team player focused on achieving project objectives with speed and accuracy.
+
+### Experience
+
+- #### Nokia, Bangalore 
+  -	Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.
+  -	Worked as a backend developer for a monitoring tool.
+  -	Updated old code bases to modern development standards, improving functionality.
+  -	Offered experience with Shell scripting, Python and GoLang.
+  -	Have some experience with Kubernetes, Docker.
+  - Tested methodology with writing and execution of test plans, debugging and testing scripts and tools.
+
 
 ![matrix](readme_images/giphy.gif)
 
